@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClientBenchmark.Api", "HttpClientBenchmark.Api\HttpClientBenchmark.Api.csproj", "{7917B5D3-AC0A-4AD5-A305-A6D6FB9A316B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClientBenchmark.ConsoleApp", "HttpClientBenchmark.ConsoleApp\HttpClientBenchmark.ConsoleApp.csproj", "{E4FE51EE-8D46-45C8-9CA6-F2CC10B8636A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7917B5D3-AC0A-4AD5-A305-A6D6FB9A316B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7917B5D3-AC0A-4AD5-A305-A6D6FB9A316B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7917B5D3-AC0A-4AD5-A305-A6D6FB9A316B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7917B5D3-AC0A-4AD5-A305-A6D6FB9A316B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FE51EE-8D46-45C8-9CA6-F2CC10B8636A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FE51EE-8D46-45C8-9CA6-F2CC10B8636A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FE51EE-8D46-45C8-9CA6-F2CC10B8636A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FE51EE-8D46-45C8-9CA6-F2CC10B8636A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7D14D5-3CE4-4184-95F2-724B2CA96392}
+	EndGlobalSection
+EndGlobal
